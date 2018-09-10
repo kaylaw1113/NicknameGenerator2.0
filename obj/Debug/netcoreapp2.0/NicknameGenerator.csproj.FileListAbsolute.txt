@@ -1,0 +1,11 @@
+/Users/Kayla/Documents/cidm3312/NicknameGenerator/obj/Debug/netcoreapp2.0/NicknameGenerator.csprojResolveAssemblyReference.cache
+/Users/Kayla/Documents/cidm3312/NicknameGenerator/obj/Debug/netcoreapp2.0/NicknameGenerator.csproj.CoreCompileInputs.cache
+/Users/Kayla/Documents/cidm3312/NicknameGenerator/obj/Debug/netcoreapp2.0/NicknameGenerator.AssemblyInfoInputs.cache
+/Users/Kayla/Documents/cidm3312/NicknameGenerator/obj/Debug/netcoreapp2.0/NicknameGenerator.AssemblyInfo.cs
+/Users/Kayla/Documents/cidm3312/NicknameGenerator/bin/Debug/netcoreapp2.0/NicknameGenerator.deps.json
+/Users/Kayla/Documents/cidm3312/NicknameGenerator/bin/Debug/netcoreapp2.0/NicknameGenerator.runtimeconfig.json
+/Users/Kayla/Documents/cidm3312/NicknameGenerator/bin/Debug/netcoreapp2.0/NicknameGenerator.runtimeconfig.dev.json
+/Users/Kayla/Documents/cidm3312/NicknameGenerator/bin/Debug/netcoreapp2.0/NicknameGenerator.dll
+/Users/Kayla/Documents/cidm3312/NicknameGenerator/bin/Debug/netcoreapp2.0/NicknameGenerator.pdb
+/Users/Kayla/Documents/cidm3312/NicknameGenerator/obj/Debug/netcoreapp2.0/NicknameGenerator.dll
+/Users/Kayla/Documents/cidm3312/NicknameGenerator/obj/Debug/netcoreapp2.0/NicknameGenerator.pdb
